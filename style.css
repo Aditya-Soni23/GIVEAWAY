@@ -1,0 +1,28 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.jk{
+    font-weight: bolder;
+}
+
+.op{
+    background-color: violet;
+    font-weight: bolder;
+    color: black;
+}
+
+.p{
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    background-color: yellow;
+    width: 1500px;
+    height: 200px;
+}
+
+.kk{
+    width: 300px;
+    height: 200px;
+}
